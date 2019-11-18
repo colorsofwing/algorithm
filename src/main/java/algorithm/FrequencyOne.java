@@ -1,9 +1,5 @@
 package algorithm;
 
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
-
 public class FrequencyOne {
 
     public static int NumberOf1Between1AndN_Solution(int n) {

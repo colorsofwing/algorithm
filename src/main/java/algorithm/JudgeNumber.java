@@ -1,8 +1,5 @@
 package algorithm;
 
-import java.util.Comparator;
-import java.util.PriorityQueue;
-
 public class JudgeNumber {
 
     public static boolean isNumeric(char[] str) {
